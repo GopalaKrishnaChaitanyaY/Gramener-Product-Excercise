@@ -29,9 +29,13 @@ Father occupation
 Checking all the features, ‘Father edu’ stands out first with much higher score than the second most influency feature.
 
 2. How do boys and girls perform across states?
+
 I have Created Features of Performance grouped by States by Gender (Boy, Girl) . Then I have calculated overall Performance ans average of all subjects
 Then I have Plotted the overall Performances Statewise comparing Performance of Boy Vs Girl.
+From The analysis I found that Girls Perform better than Boys 
 
 3. Do students from South Indian states really excel at Math and Science?
-I have created a feature of Avearge Performance in Maths and Science. I have segregated the states as South Indian States and Rest of India. Then I have Plotted the overall Performance in Maths and Science 
-Comparing between south Indian Students and Student from Rest of India.
+
+I have created a feature of Avearge Performance in Maths and Science. I have segregated the states as South Indian States and Rest of India.
+Then I have Plotted the overall Performance in Maths and Science Comparing between south Indian Students and Student from Rest of India.
+From my Analysis I found that overall,  North Indian Students are good at Maths and Science than South Indian Students
